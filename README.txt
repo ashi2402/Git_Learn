@@ -1,2 +1,2 @@
 This is first GIT commit
-New changes for second commit
+Old content removed and added new one
